@@ -1,3 +1,6 @@
+OUTLINE
+---
+
 In the groceries.txt file, add the following:
 
 - couple of seed potatos
