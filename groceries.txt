@@ -1,0 +1,1 @@
+In the groceries.txt file, add the following:
